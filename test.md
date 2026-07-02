@@ -1,6 +1,6 @@
 {
-  "email": "HamzaOubada@centerOskar.com",
-  "password": "HamzaOubada55",
+  "email": "HamzaTeacher@gmail.com",
+  "password": "HamzaOskar",
   "name": "Professor Hamza",
   "role": "TEACHER"
 }
